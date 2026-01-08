@@ -1,11 +1,3 @@
----
-name: User Story
-about: description of the user story
-title: ''
-labels: ''
-assignees: ''
-
----
 
 ---
 name: User Story
